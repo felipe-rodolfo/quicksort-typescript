@@ -15,8 +15,8 @@
    1. Clone o repositório:
 
       ```bash
-      git clone https://github.com/seu-usuario/ecommerce-quicksort.git
-      cd ecommerce-quicksort
+      git clone https://github.com/felipe-rodolfo/quicksort-typescript.git
+      cd quicksort-typescript
       ```
 
    2. Instale as dependências:
